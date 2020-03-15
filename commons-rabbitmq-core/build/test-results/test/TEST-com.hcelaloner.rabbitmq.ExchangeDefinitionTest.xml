@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hcelaloner.rabbitmq.ExchangeDefinitionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-05-25T08:46:29" hostname="C02TV1WXHTD6.local" time="0.107">
+  <properties/>
+  <testcase name="it should create a non-autodelete, durable exchange with no extra arguments when called with default params$commons_rabbitmq_core(ExchangeType)[1]" classname="com.hcelaloner.rabbitmq.ExchangeDefinitionTest" time="0.093"/>
+  <testcase name="it should create a non-autodelete, durable exchange with no extra arguments when called with default params$commons_rabbitmq_core(ExchangeType)[2]" classname="com.hcelaloner.rabbitmq.ExchangeDefinitionTest" time="0.002"/>
+  <testcase name="it should create a non-autodelete, durable exchange with no extra arguments when called with default params$commons_rabbitmq_core(ExchangeType)[3]" classname="com.hcelaloner.rabbitmq.ExchangeDefinitionTest" time="0.001"/>
+  <testcase name="it should create a non-autodelete, durable exchange with no extra arguments when called with default params$commons_rabbitmq_core(ExchangeType)[4]" classname="com.hcelaloner.rabbitmq.ExchangeDefinitionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
